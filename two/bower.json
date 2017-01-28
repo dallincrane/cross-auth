@@ -1,0 +1,21 @@
+{
+  "name": "cross-auth-two",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Dallin Crane <dallincrane@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cross-storage": "^1.0.0"
+  }
+}
